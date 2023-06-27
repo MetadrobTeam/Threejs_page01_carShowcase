@@ -1,0 +1,46 @@
+{
+  "name": "r3f-scroll-rig-sticky-box",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@14islands/lerp": "1.0.3",
+    "@14islands/r3f-scroll-rig": "8.11.2",
+    "@popmotion/popcorn": "0.4.4",
+    "@react-spring/three": "9.5.4",
+    "@react-three/drei": "9.32.3",
+    "@react-three/fiber": "8.8.1",
+    "@react-three/postprocessing": "^2.14.11",
+    "buffer": "^6.0.3",
+    "d3-ease": "3.0.1",
+    "extract-svg-path": "^2.1.0",
+    "framer-motion": "9.0.2",
+    "leva": "^0.9.35",
+    "load-svg": "^1.0.0",
+    "maath": "^0.4.2",
+    "postprocessing": "^6.32.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "react-three-fiber": "^6.0.13",
+    "svg-mesh-3d": "^1.1.0",
+    "three": "^0.144.0",
+    "three-simplicial-complex": "^69.0.6",
+    "typedarray-pool": "^1.2.0",
+    "uuid-by-string": "^4.0.0",
+    "wouter": "^2.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
